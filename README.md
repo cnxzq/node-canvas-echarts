@@ -3,7 +3,7 @@ node-canvas echarts
 
 ## install
 ```js
-npm install node-canvas-echarts -S
+npm install canvas-echarts -S
 ```
 
 
