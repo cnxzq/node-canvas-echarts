@@ -12,6 +12,15 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\test\\create_bar.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "TEST Base64",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\test\\base64.js"
         }
     ]
 }

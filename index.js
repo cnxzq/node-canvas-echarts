@@ -61,9 +61,10 @@ exports.createEChartsImage = function (config) {
         }
         
     } else {
+        var rev = chart.getDom().toDataURL();
         if(config.enableAutoDispose){
           chart.dispose();
         }
-        return chart.getDom().toBuffer();
+        return rev;
     }
 }

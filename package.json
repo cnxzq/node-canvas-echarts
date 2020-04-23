@@ -1,6 +1,6 @@
 {
   "name": "canvas-echarts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "node-canvas echarts",
   "main": "index.js",
   "scripts": {
