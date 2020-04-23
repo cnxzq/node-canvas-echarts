@@ -1,0 +1,27 @@
+{
+  "name": "node-canvas-echarts",
+  "version": "1.0.0",
+  "description": "node-canvas echarts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zq1988626/node-canvas-echarts.git"
+  },
+  "keywords": [
+    "node",
+    "echarts"
+  ],
+  "author": "290353142@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zq1988626/node-canvas-echarts/issues"
+  },
+  "homepage": "https://github.com/zq1988626/node-canvas-echarts#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "echarts": "^4.7.0"
+  }
+}

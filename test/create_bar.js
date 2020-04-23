@@ -1,14 +1,3 @@
-# node-canvas-echarts
-node-canvas echarts
-
-## install
-```js
-npm install node-canvas-echarts -S
-```
-
-
-## test
-```
 const {createEChartsImage} = require("../index");
 const path = require("path");
 createEChartsImage({
@@ -57,4 +46,3 @@ createEChartsImage({
         ]
     }
 })
-```
