@@ -1,5 +1,5 @@
 # node-canvas-echarts
-node-canvas echarts
+use node-canvas and echarts create chart image
 
 ## install
 ```js
