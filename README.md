@@ -9,7 +9,7 @@ npm install node-canvas-echarts -S
 
 ## test
 ```
-const {createEChartsImage} = require("../index");
+const {createEChartsImage} = require("node-canvas-echarts");
 const path = require("path");
 createEChartsImage({
     width:800,
